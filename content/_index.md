@@ -1,11 +1,7 @@
 ---
 # banner
 banner:
-  title: "Andromeda is the most intuitive way to prototype Designs"
-  button: "Get Premium Version"
-  button_link: "https://gethugothemes.com/products/andromeda/"
-  image: "images/banner-app.png"
-
+  title: "Contrail is the most intuitive way to prototype Designs"
 
 # brands
 brands_carousel:
